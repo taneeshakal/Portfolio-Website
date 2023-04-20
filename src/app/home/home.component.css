@@ -1,0 +1,50 @@
+.p-profile img{
+  height:500px;
+  width:400px;
+  background-size:cover;
+  background-position: top;
+  background-repeat: no-repeat;
+}
+
+.p-rgt-sec{
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.p-tag{
+  position:relative;
+  background:#989898 ;
+  color:#fff;
+  padding:5px 10px;
+  font-size:16px;
+  top:10px;
+  width:350px;
+}
+
+.p-des{
+  color:#acacac;
+  width:80%;
+  font-size:14px;
+  text-align: justify;
+}
+
+
+form .btn-warning{
+  position:relative;
+  min-height:30px;
+  border:0;
+  border-radius:0;
+  padding:10px 35px;
+  font-weight: 500;
+  left:250px;
+  top:-60px;
+  background-color: #33a3b6;
+  color:white;
+  box-shadow:1px 2px 6px 1px #000;
+
+}
+
+.mt-4{
+  color: white;
+}
