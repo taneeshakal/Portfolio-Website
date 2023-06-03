@@ -1,6 +1,6 @@
 # Portfolio
 
-This is a frontend project for my personal portfolio website built using HTML, CSS, Angular, and Bootstrap. The website showcases my personal profile, projects, and how to reach out to me for potential employers and clients.
+This is a frontend project, personal portfolio website built using HTML, CSS, Angular, and Bootstrap.
 
 ##Status
 
